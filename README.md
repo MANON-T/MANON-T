@@ -8,7 +8,7 @@ I chose to study computer science because I liked computers since childhood. I s
 
 * 🌍  I'm based in Phitsanulok
 * ✉️  You can contact me at [manon301260@gmail.com](mailto:manon301260@gmail.com)
-* 🚀  I'm currently working on [Coffee\_shop](http://github.com/MANON-T/Coffee_shop.git)
+* 🚀  I'm currently working on [Todo\-List](https://github.com/MANON-T/Todo-List.git)
 * 🧠  I'm learning AI , Machine learning
 * ⚡  The work is feasible, but the game must be played first 🚶‍♂️🎮
 
