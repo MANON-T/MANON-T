@@ -6,9 +6,9 @@ Faculty of Science students, Computer Science major
 
 I chose to study computer science because I liked computers since childhood. I started coding when I was 17. It might be a little late, but I promise I'll keep improving. I've only recently been using Github so I don't have much work to do. But I hope that in the future, by working together, my empty repository can be filled.
 
-* 🌍  I'm based in Phitsanulok
+* 🌍  I'm based in Tak
 * ✉️  You can contact me at [manon301260@gmail.com](mailto:manon301260@gmail.com)
-* 🚀  I'm currently working on [Coffee\_shop](https://github.com/MANON-T/Coffee_shop.git)
+* 🚀  I'm currently working on ...
 * 🧠  I'm learning GO , Node.js , React Native
 * ⚡  The work is feasible, but the game must be played first 🚶‍♂️🎮
 
