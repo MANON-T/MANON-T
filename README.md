@@ -8,7 +8,7 @@ I have been passionate about computers since childhood, which led me to pursue a
 
 * 🌍  I'm based in Phitsanulok
 * ✉️  You can contact me at [manon301260@gmail.com](mailto:manon301260@gmail.com)
-* 🚀  I'm currently working on [Newbie Camping | Camping Site Recommendation Application](http://github.com/MANON-T/Newbie-Camping)
+* 🚀  I'm currently working on [Newbie Camping | Camping Site Recommendation Application](https://github.com/MANON-T/Newbie_Camping.git)
 * 🧠  I'm learning Front-End content.
 
 ### Skills
