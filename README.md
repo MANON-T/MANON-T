@@ -6,9 +6,8 @@ Faculty of Science students, Computer Science major
 
 I have been passionate about computers since childhood, which led me to pursue a degree in Computer Science. I began coding at the age of 17, which some might consider a bit late, but I am dedicated to continuous improvement. Although I am relatively new to GitHub and currently have limited projects to showcase, I am eager to collaborate and grow. I look forward to filling my repositories with meaningful contributions in the near future.
 
-* 🌍  I'm based in Bangkok
+* 🌍  I'm based in Tak
 * ✉️  You can contact me at [manon301260@gmail.com](mailto:manon301260@gmail.com)
-* 🚀  I'm currently working on [Developer Intern | Clicknext](http://www.clicknext.com/)
 * 🧠  I'm learning Java
 
 <a href="https://www.github.com/MANON-T" target="_blank" rel="noreferrer"><img
