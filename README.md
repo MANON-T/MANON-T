@@ -8,7 +8,7 @@ I have been passionate about computers since childhood, which led me to pursue a
 
 * 🌍  I'm based in Tak
 * ✉️  You can contact me at [manon301260@gmail.com](mailto:manon301260@gmail.com)
-* 🧠  I'm learning Java
+* 🧠  I'm learning React
 
 <a href="https://www.github.com/MANON-T" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/MANON-T?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
